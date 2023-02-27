@@ -9,7 +9,7 @@ Esta maqueta utiliza maquetas semanticas
 
 4 - Añadir algo de footer -------------------------- Miguel
 
-5 - Mover aside rigth imagen ----------------------- Juan
+5 - Hover aside rigth imagen ----------------------- Juan
 
 6 - Informacion/imagen en el body ------------------ guillermo
 
