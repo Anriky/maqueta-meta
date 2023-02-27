@@ -18,3 +18,5 @@ Esta maqueta utiliza maquetas semanticas
 8 - Tipo de fuente --------------------------------- Eduardo
 
 9 - Estilizar footer ------------------------------- Angel
+
+10 - Cuadro en el main ----------------------------- Arely 
