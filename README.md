@@ -8,7 +8,7 @@ Esta maqueta utiliza maquetas semanticas
 3 - Añandir barra de navegacion -------------------- mictzy
 
 4 - Añadir algo de footer -------------------------- Miguel
-
+verificacion de conflictos
 5 - Hover aside rigth imagen ----------------------- Juan
 
 6 - Informacion/imagen en el body ------------------ guillermo
