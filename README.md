@@ -20,3 +20,5 @@ Esta maqueta utiliza maquetas semanticas
 9 - Estilizar footer ------------------------------- Angel
 
 10 - Cuadro en el main ----------------------------- Arely 
+
+11 - Agregar hipertexto a una pagina externa ------- Lizbeth 
