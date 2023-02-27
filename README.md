@@ -24,6 +24,6 @@ verificacion de conflictos
 
 11 - Agregar hipertexto a una pagina externa ------- Lizbeth 
 
-kjgiubiubiuiboi
+
 
 
