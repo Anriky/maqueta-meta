@@ -8,7 +8,6 @@ Esta maqueta utiliza maquetas semanticas
 3 - Añandir barra de navegacion -------------------- mictzy
 
 4 - Añadir algo de footer -------------------------- Miguel
-verificacion de conflictos
 
 5 - Hover aside rigth imagen ----------------------- Juan
 
@@ -25,5 +24,7 @@ verificacion de conflictos
 11 - Agregar hipertexto a una pagina externa ------- Lizbeth 
 
 kjgiubiubiuiboi
+
+verificacion de conflictos
 
 
